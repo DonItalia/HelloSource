@@ -12,6 +12,8 @@ namespace HelloSource
         {
             Console.WriteLine("Hello, World!");
             Console.ReadLine();
+            Console.WriteLine("Goodbye!");
+            Console.ReadLine();
             //need some comments
         }
     }
